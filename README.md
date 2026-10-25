@@ -1,10 +1,10 @@
 # Python Activity Based Learning (ABL) - Consolidated Report
 
-**Student Name:** A.Jaideep 
-**Roll Number:** 26000852 
-**Section:** CSM1 
-**Branch:** CSE (AI & ML) 
-**Institution:** Dr. RVR NRI Institute of Technology 
+**Student Name:** A.Jaideep   
+**Roll Number:** 26000852   
+**Section:** CSM1   
+**Branch:** CSE (AI & ML)   
+**Institution:** Dr. RVR NRI Institute of Technology   
 
 ---
 
